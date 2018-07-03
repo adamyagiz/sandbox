@@ -1,0 +1,22 @@
+{
+  "name": "sandbox",
+  "version": "0.0.1",
+  "description": "git sandbox",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://adamyagiz@github.com/adamyagiz/sandbox.git"
+  },
+  "author": "Adam Yagiz <akyagiz@gmail.com> (https://adamyagiz.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamyagiz/sandbox/issues"
+  },
+  "homepage": "https://github.com/adamyagiz/sandbox#readme",
+  "devDependencies": {
+    "lodash": "^4.17.10"
+  }
+}
